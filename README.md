@@ -1,4 +1,4 @@
-# Partickelmessung
+# Partikelmessung
 
 ## WEB-Server
 
